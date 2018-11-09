@@ -50,6 +50,7 @@ public class DemoActivity extends AppCompatActivity {
 
         fragMap = new HashMap<>();
 
+
         fragMap.put(R.id.id_scale_popup, new ScalePopupFrag());
         fragMap.put(R.id.id_slide_from_bottom_popup, new SlideFromBottomPopupFrag());
         fragMap.put(R.id.id_comment_popup, new CommentPopupFrag());
