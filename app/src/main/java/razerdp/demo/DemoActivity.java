@@ -38,6 +38,7 @@ public class DemoActivity extends AppCompatActivity {
 
     private Map<Integer, SimpleBaseFrag> fragMap;
 
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
